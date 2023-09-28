@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --group-directories-first --format=comma -p
+ls -a --format=comma -p
